@@ -1,3 +1,6 @@
+# SublimeText
+*.sublime-*
+
 # Eclipse
 .classpath
 .project
